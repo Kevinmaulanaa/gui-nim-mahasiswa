@@ -210,7 +210,7 @@ public class Data extends javax.swing.JFrame {
            JOptionPane.showMessageDialog(this, "Upps, jurusan tidak ditemukan");
        }
        
-       //kode untuk fakultas
+       //kode untuk fakultas mahasiswa
        
        char fakultas = kodeNim.charAt(3);
        
